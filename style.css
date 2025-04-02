@@ -1,0 +1,29 @@
+body { 
+    background-color: rgb(17, 14, 14);
+    min-height: 100vh;
+}
+
+.fontface { 
+    font-family: "Bitter", serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+}
+
+.container { 
+    margin: 500px;
+    margin-top: 50px;
+}
+
+.container img { 
+    width: 450px;
+    height: 500px;
+    margin: 15px;
+    border: 10px solid aliceblue;
+}
+
+.word { 
+    color: aliceblue; 
+    padding-top: 10px;
+    text-align: center; 
+}
